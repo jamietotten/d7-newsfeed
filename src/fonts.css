@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'latoblack';
+    src: url('./Fonts/lato-bla-webfont.woff2') format('woff2'),
+         url('./Fonts/lato-bla-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'latobold';
+    src: url('./Fonts/lato-bol-webfont.woff2') format('woff2'),
+         url('./Fonts/lato-bol-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'latohairline';
+    src: url('./Fonts/lato-hai-webfont.woff2') format('woff2'),
+         url('./Fonts/lato-hai-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'latolight';
+    src: url('./Fonts/lato-lig-webfont.woff2') format('woff2'),
+         url('./Fonts/lato-lig-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'latoregular';
+    src: url('./Fonts/lato-reg-webfont.woff2') format('woff2'),
+         url('./Fonts/lato-reg-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'pt_serifregular';
+    src: url('./Fonts/ptf55f-webfont.woff2') format('woff2'),
+         url('./Fonts/ptf55f-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'pt_serifbold';
+    src: url('./Fonts/ptf75f-webfont.woff2') format('woff2'),
+         url('./Fonts/ptf75f-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
